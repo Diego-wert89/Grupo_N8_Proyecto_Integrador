@@ -1,0 +1,5 @@
+Desarrollo de Sistemas de IA: Si
+Procesamiento de Imágenes: Si
+Técnicas de Procesamiento del Habla: Si
+Aprendizaje Automático: Si
+Minería de Datos: Si
