@@ -8,7 +8,7 @@ Proyecto Integrador - ISPC 2024 - Grupo N°8
 #######################################################################################
 
 ## Integrantes del equipo (orden alfabético):
-- ### Galdames Walder
+- ### Galdames Walter
   
 - ### Gutiérrez Diego
 
